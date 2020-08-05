@@ -5,5 +5,6 @@ public class Main {
         System.out.println(new MyString().upperCaseFirstChar("Hello Test ahihi"));
         System.out.println("Test................");
 //        System.out.println(upperCaseFirstChar);
+        System.out.println();
     }
 }
