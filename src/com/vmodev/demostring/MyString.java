@@ -1,4 +1,4 @@
-package com.vmodev.demostring;
+package DemoString01.src.com.vmodev.demostring;
 
 public class MyString {
     public boolean checkPalindrome(String s) {
